@@ -5,7 +5,7 @@ const ramais = [
     { ramal: '1252', descricao: 'Coreme' },
     { ramal: '8648', descricao: 'Almoxarifado Central' },
     { ramal: '8566', descricao: 'Almoxarifado (Cesta)' },
-    { ramal: '8616', descricao: 'Anatomia Patologica' },
+    { ramal: '8616', descricao: 'Anatomia Patológica' },
     { ramal: '8776', descricao: 'Ala Azul - 1' },
     { ramal: '8781', descricao: 'Ala Azul - 2' },
     { ramal: '8225', descricao: 'Ala Amarela - 1' },
