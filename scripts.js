@@ -1,10 +1,10 @@
 // Dados de exemplo, você pode substituir por dados reais
 const ramais = [
-    { ramal: '8202 ou 8203', descricao: 'CPD' },
-    { ramal: '102', descricao: 'Suporte Técnico' },
-    { ramal: '103', descricao: 'Recursos Humanos' },
-    { ramal: '104', descricao: 'Financeiro' },
-    { ramal: '105', descricao: 'TI' },
+    { ramal: '8221', descricao: 'Administração' },
+    { ramal: '8222', descricao: 'Alessandra' },
+    { ramal: '1252', descricao: 'Coreme' },
+    { ramal: '8648', descricao: 'Almoxarifado Central' },
+    { ramal: '8566', descricao: 'Almoxarifado (Cesta)' },
     { ramal: '101', descricao: 'Departamento de Vendas' },
     { ramal: '102', descricao: 'Suporte Técnico' },
     { ramal: '103', descricao: 'Recursos Humanos' },
