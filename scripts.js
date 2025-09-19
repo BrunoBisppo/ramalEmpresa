@@ -30,7 +30,7 @@ const ramais = [
     { ramal: '102', descricao: 'C.Cirurgico (R.P.A)' },
     { ramal: '103', descricao: 'C.Cirurgico (AG. Cirug Prescrição)' },
     { ramal: '104', descricao: 'C.Cirurgico (Farmácia)' },
-    { ramal: '105', descricao: 'C.Cirurgico (O.P.M.E)' },
+    { ramal: '8573', descricao: 'C.Cirurgico (O.P.M.E)' },
     { ramal: '101', descricao: 'C.Cirurgico (C. Material)' },
     { ramal: '105', descricao: 'C.Cirurgico Agenda (Suzana)' },
     { ramal: '102', descricao: 'Conforto Cirurgia Geral' },
